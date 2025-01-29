@@ -1,5 +1,3 @@
-# Project initially developed by Seyed Farhad Miri
-
 # Basically this is a framework for scanning and finding vulnerabilities in a more bug bounty style on a list of domains and urls.
 
 # HOW IT WORKS : 
