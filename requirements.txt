@@ -1,0 +1,79 @@
+   61  sudo apt install htop
+   67  sudo apt install go
+   68  sudo apt install golang
+   72  sudo apt install ufw
+   81  sudo apt install sqlite3
+   82  apt install aptitude
+   83  sudo apt install aptitude
+  147  sudo apt install updatedb
+  154  sudo apt install httpx
+  155  sudo apt install python3-httpx
+  163  sudo apt install ntop
+  165  sudo apt install jnettop
+  170  sudo apt install darkstat
+  204  apt install git
+  205  sudo apt install git
+  216  apt install screen
+  217  sudo apt install screen
+  262  sudo apt install waybackurls
+  279  sudo apt install jq
+  281  sudo apt install subfinder
+  293  sudo apt install cargo
+  304  sudo apt install python-is-python3 
+  307  sudo apt install python-is-python2
+  309  sudo apt install python2-dev
+  310  sudo apt install python3-dev
+  311  sudo apt install python3-pip
+  312  sudo apt install python2-pip
+  313  sudo apt install python-pip
+  314  sudo apt install pip
+  319  sudo apt install pip2
+  382  sudo apt install nc
+  383  sudo apt install netcat
+  436  sudo apt install rsync
+  534  history | grep -i "apt install"
+  535  history | grep -i "apt install" >> /tmp/requirements.txt
+    6  pip3 install progress
+    7  pip3 install httpx
+    8  sudo pip3 install httpx
+   15  pip3 install httpx
+   77  pip3 install time
+   78  pip3 install colorama
+   79  pip3 install sqlite3
+   80  pip3 install sqlite
+   84  pip3 install requests
+   85  pip3 install json,system,re,argparsesubprocess
+   86  pip3 install json system re argparsesubprocess
+   98  pip3 install progress
+  100  pip3 install colorama
+  102  pip3 install slack_sdk
+  104  pip3 install httpx
+  156  pip3 install httpx
+  306  pip3 install dns
+  440  pip3 install sqlite3
+  441  pip3 install sqlite
+  442  pip3 install random
+  538  history | grep -i "pip3 install"
+  539  history | grep -i "pip3 install" >> /tmp/requirements.txt 
+  318  pip2 install dns
+  540  history | grep -i "pip2 install" >> /tmp/requirements.txt 
+  316  pip install dns.resolver
+  317  pip install dns
+  325  python2 -m pip install -r requirements.txt 
+  339  pip install dns.resolver
+  340  sudo pip install dns.resolver
+  343  python2 -m pip install -r requirements.txt 
+  541  history | grep -i "pip install" >> /tmp/requirements.txt 
+   65  GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+   69  GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+  137  GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+  141  sudo GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+  143  GO111MODULE=on go get -v github.com/projectdiscovery/httpx/cmd/httpx
+  267  go get github.com/tomnomnom/waybackurls
+  272  GO111MODULE=on go get -u -v github.com/lc/gau
+  274  GO111MODULE=on go get -u -v github.com/bp0lr/gauplus
+  276  GO111MODULE=on go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
+  285  go get -u github.com/tomnomnom/assetfinder
+  349  GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
+  542  history | grep -i "go get"
+  543  history | grep -i "go get" >> /tmp/requirements.txt 
