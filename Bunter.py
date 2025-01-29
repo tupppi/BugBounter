@@ -7,7 +7,7 @@ from os import system
 from colorama import Fore,Style
 
 
-# Function Definitions
+# Function Definitions 
 # Main Function
 def Main():
   _ = system('clear')
